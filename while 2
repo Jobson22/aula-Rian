@@ -1,0 +1,5 @@
+# while
+senha = ""
+while senha !="1234":
+    senha = input("digite sua senha: ")
+    print("acesso liberado")
