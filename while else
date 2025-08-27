@@ -1,0 +1,5 @@
+# while
+for i in range(3):
+    print(i)
+else:
+    print("laço terminou normalmente")
