@@ -1,0 +1,3 @@
+frutas = ["banana" , "maçã" , "uva" , "laranja"]
+del frutas[2]
+print(frutas)
