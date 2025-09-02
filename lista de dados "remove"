@@ -1,0 +1,3 @@
+frutas = ["banana" , "maçã" , "uva" , "laranja"]
+frutas.remove("uva")
+print(frutas)
