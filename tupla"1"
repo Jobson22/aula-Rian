@@ -1,0 +1,3 @@
+carro = ("aro","suspensão","janela","freio")
+print(carro[1])
+print(carro[-1])
