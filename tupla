@@ -1,0 +1,6 @@
+tupla1 = (1,2,3,4)
+tupla2 = 10,20,30
+tupla3 =(5,)
+print(tupla1)
+print(tupla2)
+print(tupla3)
