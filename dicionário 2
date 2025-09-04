@@ -1,0 +1,10 @@
+pessoa = {
+    "nome":"jobson",
+    "idade": 40,
+    "profissão": "técnico" 
+    }
+    
+    
+print(pessoa["nome"])
+pessoa["cidade"] = "Rio de janeiro"
+print(pessoa["cidade"])
