@@ -1,0 +1,10 @@
+pessoa = {
+    "nome":"jobson",
+    "idade": 40,
+    "profissão": "técnico" 
+    }
+    
+    
+print(pessoa["nome"])
+pessoa["idade"] = 39
+print(pessoa["idade"])
