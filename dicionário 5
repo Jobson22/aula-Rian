@@ -1,0 +1,9 @@
+pessoa = {
+    "nome":"jobson",
+    "idade": 40,
+    "profissão": "técnico" 
+}
+    
+    
+for chaves, valor in pessoa.items():
+ print(chaves,":"),valor
